@@ -82,3 +82,110 @@ p    {color: black;}
                     </p>
                        <img src="http://www.barcelonas.com/images/fc-barcelona-club-crest.jpg" height="140px" width="145px" alt="" />
                        </div> 
+                       <!DOCTYPE html>
+<html>
+ <head> 
+<style>
+body {background-color: lightgray;}
+h1   {color: Gray;}
+p    {color: black;}
+</style>
+        <title>The Art Of Football</title>
+    </head>
+    
+    <body> 
+        <!-- header start -->
+        
+        <div id="header" class="section">
+        	 <h1><span>General Information</span></h1>
+            <p>
+               Hello new and aspiring football fans welcome to The Art Of Football. Here we'll teach you what football is, how you play it, and we'll list some teams that play Football. Then we'll list a place where you can input information to get a kit from one of the teams listed.
+               </p>
+       <img src= "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igDpq6MIkLsY/v1/800x-1.jpg" height="385px" width="385px" alt="" />
+      
+      <div> 
+       <h1><span>
+           What Is Football?
+           </span></h1> 
+            <p>The game of football or soccer is one of the most popular sports in the world. With origins that date back many centuries, soccer is played by young children, college students and professional. Football is played on a large grass field with a goal at each end. The object of the game is to get the soccer ball into the opposing team's goal. The key to soccer is that, with the exception of the goalie, players cannot touch the ball with their hands, they can only kick, knee, or head the ball to advance it or score a goal. 
+            </p>
+            </div>
+            
+            <div> 
+            
+       <h1><span>
+           What Is Needed To Play A Game? 
+           </span></h1> 
+       
+      <p>
+        <li>Two Nets</li>
+         <li>A ball</li>
+         <li>22 players (11v11)</li>
+         <li> A Refree</li>
+    </p>   
+         
+
+         </div>
+           <div>
+            <h1><span> Football Teams
+            </span></h1>    
+            <p> There are millions of football teams as football is a sport that is played all around the world. There are teams that originate in England, France, Italy, Germany, and Spain.
+            </p>
+         <h1><span> 
+         <li>Arsenal</li>
+         </span></h1>
+         <p> Arsenal Football Club is a professional football club based in Islington, London, England, that plays in the Premier League, the top flight of English football. Arsenal was founded in 1886 and their current manager is Unai Emery. Arsenal have won the third-most elite honours (46) among English football clubs.
+         </p> 
+        <img src= "https://medias.lequipe.fr/logo-football/71/300?20180726193311" height= "140px" width="145px" alt="" />
+<h1><span>
+            <li>PSG</li>
+             </span></h1>
+            <p>Paris Saint-Germain Football Club, commonly known as Paris Saint-Germain, Paris SG, or simply PSG, is a French professional football club based in the city of Paris. Founded in 1970, the club has traditionally worn red-and-blue kits. Their current manager is Thomas Tuchel.
+            </p>
+              <img src= "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png" height="140px" width="145px" alt="" />
+              
+              <h1><span>
+                  <li>Juventus</li>
+                  </span></h1>
+                  <p>Juventus Football Club also known as Juve, is a professional Italian football club in Turin, Piedmont. Juventus was founded in 1897. Their current manager is Massimiliano Allegri.
+                      </p>
+                <img src="https://static.dezeen.com/uploads/2017/01/juventus-logo-design-graphics-football_products_dezeen_2364_col_7-852x852.jpg" height="145px" width="140px" alt="" />
+               
+                <h1><span>
+                    <li>Bayern Munich</li>
+                    </span></h1>
+                    <p>
+                  FC Bayern Munich, FCB, Bayern Munich, or FC Bayern, is a German sports club based in Munich, Bavaria. Bayern Munich was founded on the 27 of Febuary 1900. Their current manager is Niko Kovac.
+                    </p>
+                       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMelYO51HOosF9Pd2IgzRiSvS7WJpNN_DgT9w3YyozlD01F6r2" height="140px" width="145px" alt="" />
+                       
+                        <h1><span>
+                    <li>FC Barcelona</li>
+                    </span></h1>
+                    <p> FC Barcelona also known as Barça, is a professional football club based in Barcelona, Catalonia, Spain. Barcelona was founded the 29 November 1899. The current manager is Ernesto Valverde.
+                    </p>
+                       <img src="http://www.barcelonas.com/images/fc-barcelona-club-crest.jpg" height="140px" width="145px" alt="" />
+                       </div>
+
+                        <h1><span>
+                    <li>Favourite Jerseys</li>
+                    </span></h1>
+                    <div>
+                    <p>
+  Are you looking for your favourite jersesy. Just put in your Name, Email, Telephone Number, and Delivery Address. 
+ </p> 
+
+<form>
+<label>Your name:</label>
+<input id="user" name="username" type="text" />
+<label>Telephone Number:</label>
+<input input id="tel" name="tel" type="tel" placeholder="555.555.1211"/>
+<label for="email">Your e-mail address: </label>
+<input id="email" name="email" type="email" placeholder="example@example.com"/>
+<label>Delivery Address:</label>
+<input id="user" name="username" type="text" />
+<input type="submit" value="Submit">
+</form>
+</div>
+
+
