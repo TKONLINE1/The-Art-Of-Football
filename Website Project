@@ -1,133 +1,184 @@
 <!DOCTYPE html>
 <html>
- <head>
- <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"> 
- <link rel="stylesheet" href="styles.css">
-<style>
-body {background-color: lightgray;}
-h1   {color: Black;}
-p    {color: black;}
-</style>
-        <title>The Art Of Football</title>
-        <h1>The Art Of Football</h1>
-         <hr />
-  
-    </head>
-    <head>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE Edge">
+  <meta name="viewport" content="width=device-width;initial-scale=1.0;user-scalable=true">
 
-    <body> 
-        <!-- header start -->
-        
-        <div>
-        	 <h1><span>General Information</span></h1>
-            <p class="solid center">
-               Hello new and aspiring football fans welcome to The Art Of Football. Here we'll teach you what football is, how you play it, and we'll list some teams that play Football. Then we'll list a place where you can input information to get a kit from one of the teams listed.
+  <title>The Art Of Football</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"> 
+  <link href="bootstrap.css" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+
+  <!-- <style>
+  body {background-color: white;}
+  h1   {color: Black;}
+  p    {color: black;}
+  <h2> {color: white}
+  </style> -->
+</head>
+
+<<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">The Art Of Football</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="
+    ">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Description <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Teams</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <form class="navbar-form navbar-left">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Buy A Jersey</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+<body class="center solid">
+   <div class="jumbotron">
+        <div class="row">
+            <div class="col-lg-12">
+                <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igDpq6MIkLsY/v1/800x-1.jpg">
+              </div>
+            </div>
+          </div>
+             
+
+        </body> 
+        <div class="container">
+        	 <h1>Introduction To Football</h1>
+            <p class="center">
+               The game of football or soccer is one of the most popular sports in the world. With origins that date back many centuries, soccer is played by young children, college students and professional. Football is played on a large grass field with a goal at each end. The object of the game is to get the soccer ball into the opposing team's goal. The key to soccer is that, with the exception of the goalie, players cannot touch the ball with their hands, they can only kick, knee, or head the ball to advance it or score a goal.
                </p>
-       <img src= "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igDpq6MIkLsY/v1/800x-1.jpg" height="385px" width="385px" alt="" class="center" class="left" />
-      </head>
+      
       </div>
      
-      <div class="left"> 
+      <div class="center"style="margin: 105px;"> 
        <h1><span>
-           <div class="center"> What Is Football?</div>
-           </span></h1> 
-           </div>
-
-           <div class="solid">
-            <p>
-              The game of football or soccer is one of the most popular sports in the world. With origins that date back many centuries, soccer is played by young children, college students and professional. Football is played on a large grass field with a goal at each end. The object of the game is to get the soccer ball into the opposing team's goal. The key to soccer is that, with the exception of the goalie, players cannot touch the ball with their hands, they can only kick, knee, or head the ball to advance it or score a goal. 
-            </p>
-            </div>
-            
-            <div class="center"> 
-            
-       <h1><span>
-           What Is Needed To Play A Game? 
-           </span></h1> 
+          
+       <h3><span>
+           Playing The Game Of Football </span></h3> 
        </div>
-       
-       <div class="center middle solid">
-     
-     <p>
-        <li>Two Nets<img src="https://cdn.forzagoal.com/media/catalog/product/cache/9/thumbnail/800x/9df78eab33525d08d6e5fb8d27136e95/u/e/uefa_goal_1_3.jpg" height="150px" width="150px" alt="" /> </li>
-        
-         <li>A ball <img src="http://i.ebayimg.com/00/s/NTAwWDUwMA==/z/KSEAAOxyNo9SslXO/$_3.JPG?set_id=2" height="150px" width="150px" alt="" /> </li>
-         
-         <li>22 players (11v11)<img src="https://metrouk2.files.wordpress.com/2018/06/newarsenal.jpg?quality=80&strip=all&zoom=1&resize=540%2C802" height="150px" width="150px" alt="" /> </li>
-         
-         <li> A Referee  <img src="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/08/15/a516e258-1bde-4f96-9dec-aba86fd14c06/pawson-referees.jpg" height="150px" width="150px" alt="" /> </li>
+      
+       <div class="center">
+       </div>
+     <div>
+
+      <!-- LAYOUT IMAGES -->
+
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-4 col-md-3">
+            <img src="https://cdn.forzagoal.com/media/catalog/product/cache/9/thumbnail/800x/9df78eab33525d08d6e5fb8d27136e95/u/e/uefa_goal_1_3.jpg" height="140px" width="145px" alt=""class="img-responsive" alt="Nets" style="margin: auto;">
+            <p>Two Nets</p>
+          </div>
+        <div class="col-sm-4 col-md-3">
+          <img src="http://i.ebayimg.com/00/s/NTAwWDUwMA==/z/KSEAAOxyNo9SslXO/$_3.JPG?set_id=2"  height="140px" width="145px" alt=""class="img-responsive" alt="Ball" style="margin: auto;">
+          <p>A Ball</p>
+        </div>
+        <div class="col-sm-4 col-md-3">
+          <img src="https://metrouk2.files.wordpress.com/2018/06/newarsenal.jpg?quality=80&strip=all&zoom=1&resize=540%2C802"  height="140px" width="145px" alt=""class="img-responsive" alt="22 players (11v11)"style="margin: auto;">
+          <p>22 players (11v11)</p>
+        </div> 
+        <div class="col-sm-4 col-md-3">
+          <img src="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/08/15/a516e258-1bde-4f96-9dec-aba86fd14c06/pawson-referees.jpg"  height="140px" width="145px" alt=""class="img-responsive" alt="Referee"style="margin: auto;">
+          <p>A Referee</p>
+
+      </div>
+    </div>
+
+
+  </div>
+   </div>
+</div>
+
        </p> 
        </div>  
          
 
          </div>
-           <div>
-            <h1><span> Football Teams
-            </span></h1>    
+         <div style="margin: 145px"> <h3>Football Teams</h3>
             <p>There are millions of football teams as football is a sport that is played all around the world. There are teams that originate in England, France, Italy, Germany, and Spain.
-            </p>
-         <h1><span> 
-         <li >Arsenal</li>
-         </span></h1>
-         <p class="solid"> 
-           <img src= "https://medias.lequipe.fr/logo-football/71/300?20180726193311" height= "140px" width="145px" alt="" />
-           Arsenal Football Club is a professional football club based in Islington, London, England, that plays in the Premier League, the top flight of English football. Arsenal was founded in 1886 and their current manager is Unai Emery. Arsenal have won the third-most elite honours (46) among English football clubs.
-         </p> 
-<h1><span>
-            <li>PSG</li>
-             </span></h1>
-            <p class="solid"> 
-            <img src= "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png" height="140px" width="145px" alt="" />
-            Paris Saint-Germain Football Club, commonly known as Paris Saint-Germain, Paris SG, or simply PSG, is a French professional football club based in the city of Paris. Founded in 1970, the club has traditionally worn red-and-blue kits. Their current manager is Thomas Tuchel.
-            </p>
-            
-              
-              <h1><span>
-                  <li>Juventus</li>
-                  </span></h1>
-                  <p class="solid"> 
-                  <img src="https://static.dezeen.com/uploads/2017/01/juventus-logo-design-graphics-football_products_dezeen_2364_col_7-852x852.jpg" height="145px" width="140px" alt="" />
-                    Juventus Football Club also known as Juve, is a professional Italian football club in Turin, Piedmont. Juventus was founded in 1897. Their current manager is Massimiliano Allegri.
-                      </p>
-               
-                <h1><span>
-                    <li>Bayern Munich</li>
-                    </span></h1>
-                    <p class="solid">
-                   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMelYO51HOosF9Pd2IgzRiSvS7WJpNN_DgT9w3YyozlD01F6r2" height="140px" width="145px" alt="" />   
-                  FC Bayern Munich, FCB, Bayern Munich, or FC Bayern, is a German sports club based in Munich, Bavaria. Bayern Munich was founded on the 27 of Febuary 1900. Their current manager is Niko Kovac.
-                    </p>
-                       
-                       
-                        <h1><span>
-                    <li>FC Barcelona</li>
-                    </span></h1>
-                    <p class="solid"> 
-                    <img src="http://www.barcelonas.com/images/fc-barcelona-club-crest.jpg" height="140px" width="145px" alt="" />
-                      FC Barcelona is a professional football club based in Barcelona, Catalonia, Spain. Barcelona was founded the 29 November 1899. The current manager is Ernesto Valverde.
-                    </p>
-              
-                       </div>
-                        <h1><span>
-                          <div>
-                    <li>Favourite Jerseys</li>
-                    </span></h1>
-                    </div>
-                    <div>
-                     <p class="">
-                      Are you looking for your favourite jersesy. Just put in your Name, Email, Telephone Number, and Delivery Address. 
- </p> 
+            </p></div>
+      
+           <div class="container">
+        <div class="row">
+          <div class="col-sm-4 col-md-3 margin:auto;">
+            <img src="https://medias.lequipe.fr/logo-football/71/300?20180726193311" height= "140px" width="145px" alt="" class="img-responsive" alt="Arsenal" style="margin: auto;">
+            <p>Arsenal is a professional football club based in Islington, London, England, that plays in the Premier League, the top flight of English football. Arsenal was founded in 1886 and their current manager is Unai Emery. Arsenal have won the third-most elite honours (46) among English football clubs.</p>
+          </div>
+        <div class="col-sm-4 col-md-3">
+          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png" height="140px" width="145px" alt="" class="img-responsive" alt="PSG" style="margin: auto;">
+          <p>PSG is a French professional football club based in the city of Paris. Founded in 1970, the club has traditionally worn red-and-blue kits. Their current manager is Thomas Tuchel.</p>
+        </div>
+        <div class="col-sm-4 col-md-3">
+          <img src="https://static.dezeen.com/uploads/2017/01/juventus-logo-design-graphics-football_products_dezeen_2364_col_7-852x852.jpg" height="145px" width="140px" alt=""  class="img-responsive" alt="Juventus" style="margin: auto;">
+          <p>Juventus is a professional Italian football club in Turin, Piedmont. Juventus was founded in 1897. Their current manager is Massimiliano Allegri.</p>
+        </div> 
+        <div class="col-sm-4 col-md-3">
+          <img src="http://www.barcelonas.com/images/fc-barcelona-club-crest.jpg" height="140px" width="145px" alt="" class="img-responsive"alt="Barcelona"style="margin: auto;">
 
-<form class="solid center">
-<label>Your name:</label>
-<input id="user" name="username" type="text" />
+          <p> FC Barcelona is a professional football club based in Barcelona, Catalonia, Spain. Barcelona was founded the 29 November 1899. The current manager is Ernesto Valverde.</p>
+        </div>
+      </div>
+    </div>
+           <h1><span>
+                    <h3>Favourite Jerseys</h3>
+                    </span></h1>
+      
+<p class="container"> Register here to purchase your favourite Jerseys. We'll get back to you in the next 20 to 30 minutes</p> 
+
+<div margin>
+<form>
+<label style="margin-left: 50px">Your name:</label>
+<input style= "margin-left:7px"id="user" name="username" type="text" /> <br>
 <label>Telephone Number:</label>
-<input input id="tel" name="tel" type="tel" placeholder="555.555.1211"/>
-<label for="email">Your e-mail address: </label>
-<input id="email" name="email" type="email" placeholder="example@example.com"/>
-<label>Delivery Address:</label>
-<input id="user" name="username" type="text" />
-<input type="submit" value="Submit">
+<input style="margin-left: 4px" input id="tel" name="tel" type="tel" placeholder="555.555.1211"/> <br>
+<label style="margin-left:65px" for="email">Your e-mail address: </label> 
+<input style="margin-right:68px" id="email" name="email" type="email" placeholder="example@example.com"/> <br>
+<label style="margin-right: 14px">Delivery Address:</label>
+<input id="user" name="username" type="text" /><br>
+<input style="margin-left:14px" type="submit" value="Submit"> <br>
 </form>
 </div>
-
+<footer class="right">All Rights Reserved(®)2018</footer>
